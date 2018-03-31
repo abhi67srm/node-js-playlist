@@ -2,7 +2,7 @@
   "name": "js-playlist",
   "version": "1.0.0",
   "description": "a small todo app",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"hello\""
   },
@@ -22,6 +22,7 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "ejs": "^2.5.8",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongoose": "^5.0.12"
   }
 }
